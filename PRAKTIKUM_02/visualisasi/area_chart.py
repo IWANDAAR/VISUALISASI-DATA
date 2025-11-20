@@ -8,6 +8,7 @@ st.markdown("""
 - Iwanda Aulia Rosando (0110222095)
 - Rio Adi Saputro (0110122076) 
 - Shila Mumtaz (0110222039)
+
 """)
 
 df = pd.DataFrame(
